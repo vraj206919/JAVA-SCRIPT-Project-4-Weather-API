@@ -7,7 +7,7 @@ A simple and responsive Weather App built using **HTML**, **CSS**, and **JavaScr
 
 ## 🚀 Live Demo
 
-🔗 **CodePen:**  https://codepen.io/vraj206919/pen/MYJrQBo
+🔗 **CodePen:**  [https://codepen.io/vraj206919/pen/MYJrQBo](https://codepen.io/vraj206919/pen/MYJrQBo)
 
 
 ---
@@ -104,7 +104,7 @@ Condition: Clouds
 
 **Vraj Desai** 
 
-CodePen: https://codepen.io/vraj206919/pen/MYJrQBo
+CodePen: [https://codepen.io/vraj206919/pen/MYJrQBo](https://codepen.io/vraj206919/pen/MYJrQBo)
 
 ---
 
